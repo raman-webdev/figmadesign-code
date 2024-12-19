@@ -4,6 +4,7 @@ import Header from "../components/Header";
 import Hero from "../components/Hero";
 import Secondhero from "../components/Secondhero";
 import Thirdhero from "../components/Thirdhero";
+import Fourhero from "../components/Fourhero";
 
 const Page = () => {
   return (
@@ -12,6 +13,7 @@ const Page = () => {
       <Hero />
       <Secondhero />
       <Thirdhero />
+      <Fourhero />
     </>
   );
 };

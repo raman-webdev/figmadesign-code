@@ -40,7 +40,7 @@ const Hero = () => {
             src="/Assets/heroright.png"
             width={500}
             height={500}
-            className="ml-[200px]"
+            className="h-96 w-96 ml-auto"
             alt="Picture of the author"
           />
         </div>
